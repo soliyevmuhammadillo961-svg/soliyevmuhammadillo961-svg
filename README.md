@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soliyevmuhammadillo961-svg/soliyevmuhammadillo961-svg/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/soliyevmuhammadillo961-svg/soliyevmuhammadillo961-svg/output/github-snake.svg">
+</picture>
+
+
 <!--
 **soliyevmuhammadillo961-svg/soliyevmuhammadillo961-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
